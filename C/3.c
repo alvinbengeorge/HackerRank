@@ -1,3 +1,4 @@
+// https://www.hackerrank.com/challenges/reverse-array-c/problem?isFullScreen=true
 #include <stdio.h>
 #include <stdlib.h>
 
